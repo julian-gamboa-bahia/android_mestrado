@@ -1,0 +1,2 @@
+Código Android do trabalho de mestrado intitulado 
+"SOFTWARE EDUCATIVO PARA O ESTUDO DE CRITÉRIOS E ENVELOPES DE FALHA EM MATERIAIS COMPÓSITOS"
